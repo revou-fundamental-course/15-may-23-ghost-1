@@ -1,0 +1,100 @@
+body {
+    border-style: solid;
+    border-radius: 3px;
+    width: 500px;
+    margin: auto;
+    display: block;
+    
+}
+
+header {
+    background-color: yellowgreen;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    margin : 0px;
+    background-color: white;
+}
+
+div { 
+    margin-top: 5px;
+}
+
+button {
+    border-radius: 5px;
+}
+
+input {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.title {
+    color: white;
+    font-family: Impact;
+    font-size: 30px;
+}
+
+.subtitle {
+    color: grey;
+    font-size: 20px;
+    font-family: serif;
+}
+
+
+.hitung {
+    text-align: center;
+}
+
+.reset {
+    text-align: right;
+    margin: 10px;
+}
+
+.hitung-btn {
+    border-color: yellowgreen;
+    background-color: yellowgreen;
+}
+.reset-btn {
+    border-color: orange;
+    background-color: orange;
+    color: white;
+    padding: 2 px;
+}
+
+.persegi {
+    display: block;
+    margin:auto;
+    border-style: solid;
+    height: 80px;
+    width: 80px;
+}
+
+.kepala-content {
+    box-sizing: border-box  ;
+    background-color: yellowgreen;
+    font-family: segoe Ui;
+}
+
+.isi-content {
+    padding: 5px;
+}
+
+.hitung-content {
+    padding: 5px;
+}
+
+.batas {
+    margin: 5px;
+    height: 5px;
+}
+
+#output_keliling {
+    padding: 5px;
+}
+
+#output_luas {
+    padding: 5px;
+}
